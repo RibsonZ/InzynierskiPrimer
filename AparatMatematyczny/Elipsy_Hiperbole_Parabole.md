@@ -37,7 +37,7 @@ plt.show()
 ![png](Elipsy_Hiperbole_Parabole_files/output_10_0.png)
 
 
-Parabola to ogólniej wykres funkcji kwadratowej <img alt="$ y=ax^2+b $" src="https://render.githubusercontent.com/render/math?math=y%3Dax%5E2%2Bb"/>. Choć jest ona dość powszechna, być może wciąż jestem w stanie Cię zaskoczyć. Otóż wszystkie parabole, podobnie jak kwadraty i koła, są podobne!
+Parabola to ogólniej wykres funkcji kwadratowej <img alt="$ y=ax^2+bx+c $" src="https://render.githubusercontent.com/render/math?math=y%3Dax%5E2%2Bbx%2Bc"/>. Choć jest ona dość powszechna, być może wciąż jestem w stanie Cię zaskoczyć. Otóż wszystkie parabole, podobnie jak kwadraty i koła, są podobne!
 
 Podobieństwo dwóch figur zachodzi wtedy, gdy jedną z nich można otrzymać przez skalowanie (zmianę rozmiaru), translację (zmianę położenia), rotację (zmianę orientacji) lub odbicie drugiej. W przypadku kwadratów jest to dość oczywiste, parabole wymagają jednak chwili refleksji, przynajmniej dla mnie. Mylącym jest fakt, iż przeważnie widzimy tylko wycinek paraboli, podczas gdy w rzeczywistości jest ona nieskończona.
 
