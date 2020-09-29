@@ -13,5 +13,5 @@ Celem tego bloga jest przygotowanie Cię na niespodzianki, jakich możesz doświ
 2. [Elipsy, Hiperbole, Parabole](AparatMatematyczny//Elipsy_Hiperbole_Parabole.md)
 
 ### Podstawy Elektroniki
-
+1. [Elektroniczne Elementy i Prawa](PodstawyElektroniki/Elektroniczne_Elementy_I_Prawa.md)
 ### Podstawy Informatyki
